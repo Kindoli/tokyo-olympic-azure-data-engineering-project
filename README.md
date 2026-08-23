@@ -1,6 +1,6 @@
 # Tokyo Olympics End-to-End Data Engineering Project
 
-This project demonstrates an end-to-end data engineering and analytics pipeline using the **Tokyo 2020 Olympics dataset**.
+This project demonstrates an end-to-end data engineering and analytics pipeline using the **Tokyo 2021 Olympics dataset**.
 
 The objective is to build a modern data pipeline that takes raw Olympic data through ingestion, storage, transformation, data quality, modeling, and analytics before delivering insights through Power BI.
 
