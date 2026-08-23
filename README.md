@@ -35,7 +35,7 @@ The curated Gold data is connected to **Power BI** to create interactive dashboa
 
 ## Dataset
 
-The project uses the Tokyo 2020 Olympic Games dataset, containing information about athletes, medals, coaches, and technical officials. :contentReference[oaicite:2]{index=2}
+The project uses the Tokyo 2020 Olympic Games dataset, containing information about athletes, medals, coaches, and technical officials.
 
 ## Key Learning Objectives
 
