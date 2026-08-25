@@ -22,6 +22,10 @@ Business-ready datasets are created for analytical use cases, including medal pe
 ### Analytics & Visualization
 The curated Gold data is connected to **Power BI** to create interactive dashboards and provide insights into Olympic performance.
 
+## Data Architecture
+<img width="641" height="247" alt="Azure" src="https://github.com/user-attachments/assets/19910bbc-233c-4432-9f0c-e6258b7a0f4b" />
+
+
 ## Technologies
 
 - **Databricks**
